@@ -1,0 +1,6 @@
+onnxruntime==1.10.0
+Flask
+numpy
+opencv-python
+requests
+oss2

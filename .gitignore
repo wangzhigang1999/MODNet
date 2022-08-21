@@ -1,0 +1,9 @@
+/.idea/MODNet.iml
+/.idea/modules.xml
+/.idea/other.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+__pycache__/
+/.config
+/azure-pipelines.yml
